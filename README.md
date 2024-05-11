@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Qython
-- I am producting fast compiler and
-- interpreter.
+- Quantum Computing with Python.
+- Fast compiler and interpreter.
   
 
 <!---
